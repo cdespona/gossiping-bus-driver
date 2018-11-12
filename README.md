@@ -19,7 +19,7 @@ You will receive all the driver routes. Not all drivers have a route of the same
     5 2 8
 
 
-##Output Description
+## Output Description
 The number of stops it takes to have all drivers on board with the latest gossips. If there is even one driver who does not have all the gossips by the end of the day, the answer is never.
 
 #### Example 1: 
